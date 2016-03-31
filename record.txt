@@ -1,0 +1,331 @@
+cycle=1500 amount=53
+cycle=1400 amount=110
+cycle=1300 amount=103
+cycle=1200 amount=171
+cycle=1100 amount=9
+cycle=1000 amount=15
+cycle=900 amount=20
+cycle=800 amount=66
+cycle=700 amount=88
+cycle=600 amount=121
+cycle=500 amount=141
+cycle=400 amount=74
+cycle=300 amount=102
+cycle=200 amount=85
+cycle=100 amount=10
+table division
+division list:[3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+add 10 to 300
+add 1 to 500
+division list:[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+add 55 to 700
+division list:[13, 13, 13, 13, 13, 13, 13, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+add 7 to 100
+12 STAs added to new duty cycle 1300
+division list:[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+add 57 to 400
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[5, 5, 5]
+add 3 to 200
+division list:[9, 9, 1, 1]
+add 2 to 100
+2 STAs added to new duty cycle 900
+division list:[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+add 33 to 400
+division list:[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 1, 1, 1]
+add 20 to 100
+3 STAs added to new duty cycle 700
+division list:[6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 1]
+add 20 to 100
+1 STAs added to new duty cycle 600
+division list:[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 1]
+add 28 to 100
+2 STAs added to new duty cycle 500
+division list:[4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+add 41 to 100
+division list:[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 1]
+add 37 to 100
+1 STAs added to new duty cycle 300
+division list:[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+add 44 to 100
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+209 STAs added to new duty cycle 100
+self division
+division list:[4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+41 STAs added to new duty cycle 20
+1 STAs added to new duty cycle 25
+round: 1
+cycle=1300 amount=12
+cycle=1100 amount=9
+cycle=900 amount=2
+cycle=700 amount=3
+cycle=600 amount=1
+cycle=500 amount=2
+cycle=300 amount=1
+cycle=25 amount=1
+cycle=20 amount=41
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[1, 1]
+2 STAs added to new duty cycle 900
+division list:[1, 1, 1]
+3 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1, 1]
+2 STAs added to new duty cycle 500
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+41 STAs added to new duty cycle 20
+self division
+division list:[20, 20, 1]
+2 STAs added to new duty cycle 1
+1 STAs added to new duty cycle 20
+round: 2
+cycle=1300 amount=12
+cycle=1100 amount=9
+cycle=900 amount=2
+cycle=700 amount=3
+cycle=600 amount=1
+cycle=500 amount=2
+cycle=300 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[1, 1]
+2 STAs added to new duty cycle 900
+division list:[1, 1, 1]
+3 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1, 1]
+2 STAs added to new duty cycle 500
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+division list:[2]
+1 STAs added to new duty cycle 250
+round: 3
+cycle=1300 amount=12
+cycle=1100 amount=9
+cycle=900 amount=2
+cycle=700 amount=3
+cycle=600 amount=1
+cycle=300 amount=1
+cycle=250 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[1, 1]
+2 STAs added to new duty cycle 900
+division list:[1, 1, 1]
+3 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 250
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+division list:[2, 1]
+1 STAs added to new duty cycle 350
+1 STAs added to new duty cycle 700
+round: 4
+cycle=1300 amount=12
+cycle=1100 amount=9
+cycle=900 amount=2
+cycle=700 amount=1
+cycle=600 amount=1
+cycle=350 amount=1
+cycle=300 amount=1
+cycle=250 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[1, 1]
+2 STAs added to new duty cycle 900
+division list:[1]
+1 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1]
+1 STAs added to new duty cycle 350
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 250
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+division list:[2]
+1 STAs added to new duty cycle 450
+round: 5
+cycle=1300 amount=12
+cycle=1100 amount=9
+cycle=700 amount=1
+cycle=600 amount=1
+cycle=450 amount=1
+cycle=350 amount=1
+cycle=300 amount=1
+cycle=250 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1]
+9 STAs added to new duty cycle 1100
+division list:[1]
+1 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1]
+1 STAs added to new duty cycle 450
+division list:[1]
+1 STAs added to new duty cycle 350
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 250
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+division list:[4, 5]
+1 STAs added to new duty cycle 220
+1 STAs added to new duty cycle 275
+round: 6
+cycle=1300 amount=12
+cycle=700 amount=1
+cycle=600 amount=1
+cycle=450 amount=1
+cycle=350 amount=1
+cycle=300 amount=1
+cycle=275 amount=1
+cycle=250 amount=1
+cycle=220 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+12 STAs added to new duty cycle 1300
+division list:[1]
+1 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1]
+1 STAs added to new duty cycle 450
+division list:[1]
+1 STAs added to new duty cycle 350
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 275
+division list:[1]
+1 STAs added to new duty cycle 250
+division list:[1]
+1 STAs added to new duty cycle 220
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+division list:[4, 4, 4]
+3 STAs added to new duty cycle 325
+round: 7
+cycle=700 amount=1
+cycle=600 amount=1
+cycle=450 amount=1
+cycle=350 amount=1
+cycle=325 amount=3
+cycle=300 amount=1
+cycle=275 amount=1
+cycle=250 amount=1
+cycle=220 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
+table division
+division list:[1]
+1 STAs added to new duty cycle 700
+division list:[1]
+1 STAs added to new duty cycle 600
+division list:[1]
+1 STAs added to new duty cycle 450
+division list:[1]
+1 STAs added to new duty cycle 350
+division list:[1, 1, 1]
+3 STAs added to new duty cycle 325
+division list:[1]
+1 STAs added to new duty cycle 300
+division list:[1]
+1 STAs added to new duty cycle 275
+division list:[1]
+1 STAs added to new duty cycle 250
+division list:[1]
+1 STAs added to new duty cycle 220
+division list:[1]
+1 STAs added to new duty cycle 25
+division list:[1]
+1 STAs added to new duty cycle 20
+division list:[1, 1]
+2 STAs added to new duty cycle 1
+self division
+round: 8
+cycle=700 amount=1
+cycle=600 amount=1
+cycle=450 amount=1
+cycle=350 amount=1
+cycle=325 amount=3
+cycle=300 amount=1
+cycle=275 amount=1
+cycle=250 amount=1
+cycle=220 amount=1
+cycle=25 amount=1
+cycle=20 amount=1
+cycle=1 amount=2
